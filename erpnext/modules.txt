@@ -12,7 +12,7 @@ Assets
 Portal
 Maintenance
 Regional
-ERPNext Integrations
+Extensions
 Quality Management
 Communication
 Telephony
