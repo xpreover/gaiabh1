@@ -45,6 +45,6 @@ def get_chart_data(data, filters):
 			"datasets": [{"name": _("Total Received Amount"), "values": datapoints}],
 		},
 		"type": "bar",
-		"colors": ["#5e64ff"],
+		"colors": ["#FCCE0F"],
 		"fieldtype": "Currency",
 	}
