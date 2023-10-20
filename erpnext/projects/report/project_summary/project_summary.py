@@ -97,7 +97,7 @@ def get_chart_data(data):
 			],
 		},
 		"type": "bar",
-		"colors": ["#fc4f51", "#78d6ff", "#7575ff"],
+		"colors": ["#FCCE0F", "#3B82F6", "#6D28D9"],
 		"barOptions": {"stacked": True},
 	}
 
